@@ -76,7 +76,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "a developer 🖳  / a coffee lover ☕"
   location         : "Shenzhen, China"
-  email            : "baiyinfeng94#gmail.com"
+  email            : "baiyinfeng94(at)gmail(dot)com"
   uri              :
   bitbucket        :
   codepen          :
@@ -241,6 +241,8 @@ defaults:
       comments: true # true
       share: false
       related: true
+      sidebar:
+       nav: "projects"
   # _pages
   - scope:
       path: ""
@@ -248,3 +250,5 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "projects"
