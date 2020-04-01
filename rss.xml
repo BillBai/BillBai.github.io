@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>billbai&#39;s blog</title>
+        <link>https://blog.billbai.me/</link>
+        <description>billbai's blog.</description>
+        <generator>Hugo 0.68.3 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>baiyinfeng94(at)gmail.com (billbai)</managingEditor>
+        
+        
+            <webMaster>baiyinfeng94(at)gmail.com (billbai)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Wed, 01 Apr 2020 14:10:39 +0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss+xml" href="https://blog.billbai.me/rss.xml" />
+        
+        
+            <item>
+                <title>准备开几个坑</title>
+                <link>https://blog.billbai.me/posts/lets-make-something/</link>
+                <guid isPermaLink="true">https://blog.billbai.me/posts/lets-make-something/</guid>
+                <pubDate>Fri, 19 Dec 2014 00:00:00 +0000</pubDate>
+                
+                    <author>baiyinfeng94(at)gmail.com (billbai)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description><![CDATA[<p>一个学期又要过完了，想想大学还有一年半就要结束了呢~</p>
+<p>最近已经进入紧张的<del>预</del>复习状态，一个月后，就要迎来一个超级长的寒假，在这个寒假，准备实现几个小东西~</p>
+<ul>
+<li>一个 r5rs 标准的 scheme 解释器. 不得不说 scheme 真是简洁，spec 才50页。只是个玩具，写着玩儿~</li>
+<li>一个 Game Boy 模拟器！小时候觉得这些模拟都是很厉害的东西，现在想想，发现自己完全能写嘛~ 那就写一个吧。</li>
+<li>一个 MIPS 架构 5 级流水线 CPU，用 VHDL+FPGA 实现，正好当作数字系统设计的课程设计啦~</li>
+</ul>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Hello World~</title>
+                <link>https://blog.billbai.me/posts/firstpost/</link>
+                <guid isPermaLink="true">https://blog.billbai.me/posts/firstpost/</guid>
+                <pubDate>Fri, 08 Feb 2013 00:00:00 +0000</pubDate>
+                
+                    <author>baiyinfeng94(at)gmail.com (billbai)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description><![CDATA[<p>终于（又一次）搭好了 Blog ～</p>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
