@@ -1,9 +1,0 @@
-main:
-  - title: "About"
-    url: /about/
-
-projects:
-  - title: "Projects"
-    children:
-      - title: "estr"
-        url: "https://estr.billbai.me"
